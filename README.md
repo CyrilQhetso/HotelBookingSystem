@@ -47,7 +47,7 @@ HotelBookingSystem/
    cd HotelBookingSystem
 
 Compile project :
-javac -d bin src/model/*.java src/ui/*.java
+javac -d bin src/model/*.java src/gui/*.java
 
 run project :
 java -cp bin main.Main
