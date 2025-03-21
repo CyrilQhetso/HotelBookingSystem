@@ -43,7 +43,7 @@ HotelBookingSystem/
 ### Steps to Run  
 1. **Clone the repository**  
    ```sh
-   git clone [[GitHub Repository Link]](https://github.com/CyrilQhetso/HotelBookingSystem)
+   git clone https://github.com/CyrilQhetso/HotelBookingSystem
    cd HotelBookingSystem
 
 Compile project :
